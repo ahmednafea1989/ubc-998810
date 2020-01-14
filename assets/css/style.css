@@ -144,5 +144,48 @@ label{
 	font-weight: bold;
 	padding-top: 20px;
 }
+.img2 {
+	display: inline-block;
+	transition: transform .2 ease-out;
+
+    
+   
+    
+	
+
+}
+.img1 {
+	display: inline-block;
+	transition: transform .2 ease-out;
+
+   
+    
+    
+	
+	
+}
+.img3 {
+	display: inline-block;
+	transition: transform .2 ease-out;
+
+   
+    
+	
+	
+}
+.img4 {
+	display: inline-block;
+	transition: transform .2 ease-out;
+
+    
+    
+	
+
+}
+.name {
+	position: relative;
+	
+	
+}
 
 
